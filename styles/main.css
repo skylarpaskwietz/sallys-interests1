@@ -1,0 +1,10 @@
+.interest {
+    border: 1px dotted crimson;
+    padding: 1em;
+    margin: 0.5em;
+}
+
+.bio__interests {
+    display: flex;
+    flex-wrap: wrap;
+}
